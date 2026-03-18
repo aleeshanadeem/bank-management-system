@@ -16,4 +16,6 @@ A modern bank management system originally built in C++ using OOP concepts and r
 - JavaScript
 
 ## 👨‍💻 Author
-Aleesha
+Aleesha Nadeem
+2(AN)K
+
