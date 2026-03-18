@@ -1,24 +1,19 @@
-# 🏦 Bank Management System
+# Bank Management System (2(AN)K BANK)
 
-A modern bank management system originally built in C++ using OOP concepts and redesigned into a web-based application using HTML, CSS, and JavaScript.
+A beautiful, responsive banking dashboard with CEO branding.
 
-## 🚀 Features
-- Create bank accounts
-- Deposit & Withdraw money
-- Transaction history
-- Clean dashboard UI
-- Local storage data persistence
+## Features
+- Create accounts
+- Deposit & Withdraw funds
+- Transaction history log
+- LocalStorage persistence
+- Mobile-friendly with hamburger menu
+- Premium dark + gold theme
 
-## 🛠 Technologies Used
-- C++
-- HTML
-- CSS
-- JavaScript
+## Live Demo
+👉 https://aleeshanadeem.github.io/bank-management-system/
 
-## 👨‍💻 Author
-Aleesha Nadeem
+## Tech Stack
+C++ • OOP • HTML5 • CSS3 • Vanilla JavaScript • localStorage
 
-
-
-2(AN)K
-
+Built by Aleesha Nadeem – feedback welcome! ⭐
