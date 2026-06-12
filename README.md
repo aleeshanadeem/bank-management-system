@@ -1,4 +1,4 @@
-# Bank Management System (2(AN)K BANK)
+# Bank Management System 2(AN)K BANK
 
 A beautiful, responsive banking dashboard with CEO branding.
 
