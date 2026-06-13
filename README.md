@@ -17,3 +17,9 @@ A beautiful, responsive banking dashboard with CEO branding.
 C++ • OOP • HTML5 • CSS3 • Vanilla JavaScript • localStorage
 
 Built by Aleesha Nadeem – feedback welcome! ⭐
+
+----
+
+Thank you
+
+----
